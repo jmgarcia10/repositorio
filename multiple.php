@@ -1,3 +1,3 @@
 <?php 
-	echo "multiple.php";
+	echo "editado multiple.php";
 ?>
